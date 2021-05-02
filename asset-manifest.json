@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/photograph.github.io/static/js/main.74ee9d38.chunk.js",
+    "main.js.map": "/photograph.github.io/static/js/main.74ee9d38.chunk.js.map",
+    "runtime-main.js": "/photograph.github.io/static/js/runtime-main.7a42dfb2.js",
+    "runtime-main.js.map": "/photograph.github.io/static/js/runtime-main.7a42dfb2.js.map",
+    "static/js/2.537ecacb.chunk.js": "/photograph.github.io/static/js/2.537ecacb.chunk.js",
+    "static/js/2.537ecacb.chunk.js.map": "/photograph.github.io/static/js/2.537ecacb.chunk.js.map",
+    "static/js/3.21af3f12.chunk.js": "/photograph.github.io/static/js/3.21af3f12.chunk.js",
+    "static/js/3.21af3f12.chunk.js.map": "/photograph.github.io/static/js/3.21af3f12.chunk.js.map",
+    "index.html": "/photograph.github.io/index.html",
+    "static/js/2.537ecacb.chunk.js.LICENSE.txt": "/photograph.github.io/static/js/2.537ecacb.chunk.js.LICENSE.txt",
+    "static/media/camera.9760c4a9.jpeg": "/photograph.github.io/static/media/camera.9760c4a9.jpeg",
+    "static/media/cameraMan.b0446ce3.jpg": "/photograph.github.io/static/media/cameraMan.b0446ce3.jpg",
+    "static/media/car1.50c3839e.jpg": "/photograph.github.io/static/media/car1.50c3839e.jpg",
+    "static/media/car2.d55656c7.jpeg": "/photograph.github.io/static/media/car2.d55656c7.jpeg",
+    "static/media/clock.6de31954.svg": "/photograph.github.io/static/media/clock.6de31954.svg",
+    "static/media/diaphragm.ed58759c.svg": "/photograph.github.io/static/media/diaphragm.ed58759c.svg",
+    "static/media/money.897b77c3.svg": "/photograph.github.io/static/media/money.897b77c3.svg",
+    "static/media/nature1.eaa5a3f0.jpeg": "/photograph.github.io/static/media/nature1.eaa5a3f0.jpeg",
+    "static/media/nature2.0e58b671.jpeg": "/photograph.github.io/static/media/nature2.0e58b671.jpeg",
+    "static/media/sevan1.066be381.jpg": "/photograph.github.io/static/media/sevan1.066be381.jpg",
+    "static/media/sevan2.79af2cb7.jpg": "/photograph.github.io/static/media/sevan2.79af2cb7.jpg",
+    "static/media/teamwork.647ea1ec.svg": "/photograph.github.io/static/media/teamwork.647ea1ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a42dfb2.js",
+    "static/js/2.537ecacb.chunk.js",
+    "static/js/main.74ee9d38.chunk.js"
+  ]
+}
